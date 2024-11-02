@@ -1,5 +1,9 @@
 p{
     color: chocolate;
+    padding: 10px;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 100px;
 
 }
 h5{
@@ -8,4 +12,19 @@ h5{
 
 h2{
     color: coral;
+    padding: 20px;
+    background-color: aqua;
+    text-align: center;
+    margin: 50px;
+}
+
+#sample-id-selector{
+    background-color: darkgreen;
+}
+
+body{
+    background-image: url(./img/pexels-aadil-1862183.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
